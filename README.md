@@ -11,7 +11,7 @@
 ## 🔭 About Me
 
 - 💻 **TypeScript enjoyer** & full-stack dev
-- 🏠 **Homelab tinkerer** — self-hosting everything I can
+- 🏠 **Homelab tinkerer** - self-hosting everything I can
 - 🐧 **Linux user** (I use Fedora btw)
 - 🌍 **Big fan of open source**
 
